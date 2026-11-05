@@ -1,0 +1,15 @@
+{
+  "repository": "module-music-media-library-nextjs",
+  "capabilityKey": "liberusoftware/music-media-library",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-music-media-library-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/music/nextjs/media-library.md",
+  "presentationPlan": "projects/music/nextjs/media-library.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "music"
+  ]
+}
